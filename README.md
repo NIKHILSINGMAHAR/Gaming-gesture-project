@@ -2,16 +2,23 @@
 
 
 1.Required Module:
+
      1.cvzone,
+     
      2.mediapipe,
+     
      3.pynput ;  
 		 
 
 2.Usage:
-     1.Accessibility in Gaming..
-		 2.Virtual Reality (VR) Gaming.
-		 3.Gestural Commands
-	   4.Motion Control Gaming
+
+     1.Accessibility in Gaming.
+     
+     2.Virtual Reality (VR) Gaming.
+     
+     3.Gestural Commands
+     
+     4.Motion Control Gaming
    
 
 
